@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fead01eac3962f44eb9ca95338e58eb3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ballPrefab: {fileID: 7630818088431144406, guid: 1f54d2c2a2b1fd24eac498ae7c6051c0,
+      type: 3}
+  - cameraPrefab: {fileID: 6613876195295982537, guid: 12ba3120498b1e44ea31b397cf26a2aa,
+      type: 3}
+  - lightPrefab: {fileID: 7484477739208157731, guid: 68d9247609b402049b95be81c04a3b68,
+      type: 3}
+  - gameOverBase: {fileID: 7186770169921032389, guid: 581b15b7ae9226d42a927a1cba0cc34f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
