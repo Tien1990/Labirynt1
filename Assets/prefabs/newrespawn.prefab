@@ -200,7 +200,7 @@ GameObject:
   - component: {fileID: 2281062341460405451}
   m_Layer: 0
   m_Name: newrespawn
-  m_TagString: Untagged
+  m_TagString: Respawn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -242,7 +242,6 @@ MonoBehaviour:
     type: 3}
   gameOverBase: {fileID: 7186770169921032389, guid: 581b15b7ae9226d42a927a1cba0cc34f,
     type: 3}
-  levelName: {fileID: 0}
 --- !u!1 &7445504096011820270
 GameObject:
   m_ObjectHideFlags: 0
